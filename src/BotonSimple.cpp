@@ -1,4 +1,4 @@
-#include "botonSimple.h"
+#include "BotonSimple.h"
 
 BotonSimple::BotonSimple(unsigned char _pin, unsigned long _tiempoRebote) {
   pin = _pin;
